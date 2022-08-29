@@ -18,12 +18,13 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![](https://i.imgur.com/y0YY7PP.gif)
 
-![](https://i.imgur.com/BPuIwTo.gif)
 
 
 
 ## Notes
 
 * It was great to learn Andriod Development with Kotlin. At first I struggled to install Andriod Studio for Mac M1 version but rest of the part was not much hard to finish. I liked the way prework has been explained with a step by step instructional video. It made the learning more interesting. 
+
 
